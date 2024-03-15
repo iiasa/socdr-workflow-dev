@@ -1,2 +1,12 @@
-- common:
-  - World
+- Common:
+    - World
+
+- Regions:
+    - North America
+    - China
+    - Europe
+    - Asia
+    - Oceania
+    - Africa
+    - Latin America
+    - Other
