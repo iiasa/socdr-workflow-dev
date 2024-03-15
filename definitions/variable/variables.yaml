@@ -1,3 +1,21 @@
-- Emissions|CO2:
-    description: Total net emissions of carbon dioxide (CO2)
-    unit: Mt CO2/yr
+- Research|Active Grants:
+    description: Number of active grants
+    unit:
+- Research|Active Grants|{CDR Method}:
+    description: Number of active grants related to {CDR Method}
+    unit:
+- Research|Active Grants|{CDR Method} [Share]:
+    description: Share of active grants related to {CDR Method}
+    unit: "%"
+- Research|Funding:
+    description: Amount of funding on active research grants
+    unit: million USD
+- Research|Publications:
+    description: Number of publications
+    unit:
+- Research|Publications|{CDR Method}:
+    description: Number of publications related to {CDR Method}
+    unit:
+- Research|Publications|{CDR Method} [Share]:
+    description: Number of publications related to {CDR Method}
+    unit: "%"
