@@ -14,3 +14,12 @@
 - Research|Publications|{CDR Method}:
     description: Number of publications related to {CDR Method}
     unit:
+- Research|Patents|Clean Technology:
+    description: Number of patents related to clean technologies
+    unit:
+- Research|Patents|Carbon Dioxide Removal:
+    description: Number of patents related to carbon dioxide removal technologies
+    unit:
+- Research|Patents|Carbon Dioxide Removal|{CDR Method}:
+    description: Number of patents related to {CDR Method}
+    unit:
