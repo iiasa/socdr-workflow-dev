@@ -4,9 +4,6 @@
 - Research|Active Grants|{CDR Method}:
     description: Number of active grants related to {CDR Method}
     unit:
-- Research|Active Grants|{CDR Method} [Share]:
-    description: Share of active grants related to {CDR Method}
-    unit: "%"
 - Research|Funding:
     description: Amount of funding on active research grants related to carbon dioxide
       removal technologies
@@ -17,6 +14,3 @@
 - Research|Publications|{CDR Method}:
     description: Number of publications related to {CDR Method}
     unit:
-- Research|Publications|{CDR Method} [Share]:
-    description: Number of publications related to {CDR Method}
-    unit: "%"
