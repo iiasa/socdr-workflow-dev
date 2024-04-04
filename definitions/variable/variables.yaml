@@ -45,6 +45,27 @@
 - Research|Patents|Carbon Dioxide Removal|{CDR Method}:
     description: Number of patents related to {CDR Method}
     unit:
+- Start-Up Investment|Deals:
+    description: Number of deals related to all net-zero initiatives start-ups
+    unit:
+- Start-Up Investment|Deals|Removal:
+    description: Number of deals related to carbon dioxide removal
+    unit:
+- Start-Up Investment|Deals|Removal|{CDR Method}:
+    description: Number of deals related to {CDR Method}
+    unit:
+- Start-Up Investment|Deals|Removal|{CDR Method}|{Deal Type} [Share]:
+    description: Number of {Deal Type} deals related to {CDR Method}
+    unit: "%"
+- Start-Up Investment|Funding:
+    description: Amount of investment in all net-zero initiatives start-ups
+    unit: billion USD
+- Start-Up Investment|Funding|Removal:
+    description: Amount of investment in CDR start-ups
+    unit: billion USD
+- Start-Up Investment|Funding|Removal|{CDR Method}:
+    description: Amount of investment in start-ups related to {CDR Method}
+    unit: billion USD
 
 - Gross Emissions|CO2 [Reductions relative to 2020]:
     description: Reductions of gross emissions of carbon dioxide (CO2) relative to 2020,
@@ -102,3 +123,18 @@
     unit: Gt CO2/yr
     note: For statistical indicators, the scenario-name column in the IAMC format should
       refer to the scenario ensemble or selection criteria of scenarios
+
+- Planned Projects|Removal:
+    description: Planned projects for carbon dioxide removal
+    unit: Mt CO2
+- Planned Projects|Removal|{CDR Method}:
+    description: Planned projects for carbon dioxide removal using {CDR Method}
+    unit: Mt CO2
+
+- Company Announcements|Removal:
+    description: Publicly announced company ambitions for carbon dioxide removal
+    unit: Mt CO2
+- Company Announcements|Removal|{CDR Method}:
+    description: Publicly announced company ambitions for carbon dioxide removal
+      using {CDR Method}
+    unit: Mt CO2
