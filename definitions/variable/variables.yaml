@@ -37,3 +37,35 @@
 - Research|Patents|Carbon Dioxide Removal|{CDR Method}:
     description: Number of patents related to {CDR Method}
     unit:
+
+- Gross Emissions|CO2 [{Quarter-Percentile}]:
+    description: Gross emissions of carbon dioxide (CO2), not accounting for negative
+      emissions from bioenergy with CCS (BECCS) or agriculture, forestry and other land
+      use (AFOLU), given as the {Quarter-Percentile} of a scenario ensemble
+    unit: Mt CO2/yr
+    note: For statistical indicators, the scenario-name column in the IAMC format should
+      refer to the scenario ensemble or selection criteria of scenarios
+- Carbon Removal [{Quarter-Percentile}]:
+    description: Total carbon removal as reported by each model, given as the
+      {Quarter-Percentile} of a scenario ensemble
+    unit: Gt CO2/yr
+    note: For statistical indicators, the scenario-name column in the IAMC format should
+      refer to the scenario ensemble or selection criteria of scenarios
+- Carbon Removal|Novel [{Quarter-Percentile}]:
+    description: Carbon removal using novel technologies as reported by each model,
+      given as the {Quarter-Percentile} of a scenario ensemble
+    note: For statistical indicators, the scenario-name column in the IAMC format should
+      refer to the scenario ensemble or selection criteria of scenarios
+    unit: Gt CO2/yr
+- AR6 Climate Diagnostics|Infilled|Emissions|CO2 [{Quarter-Percentile}]:
+    description: Carbon dioxide (CO2) emissions after "infilling" during the AR6 climate
+      diagnostics, given as the {Quarter-Percentile} of a scenario ensemble
+    unit: Mt CO2/yr
+    note: For statistical indicators, the scenario-name column in the IAMC format should
+      refer to the scenario ensemble or selection criteria of scenarios
+- AR6 Reanalysis|OSCARv3.2|Carbon Removal|{Land Removal} [{Quarter-Percentile}]:
+    description: Carbon {Land Removal} using the AR6 reanalysis of the OSCARv3.2 model,
+      given as the {Quarter-Percentile} of a scenario ensemble
+    unit: Mt CO2/yr
+    note: For statistical indicators, the scenario-name column in the IAMC format should
+      refer to the scenario ensemble or selection criteria of scenarios
