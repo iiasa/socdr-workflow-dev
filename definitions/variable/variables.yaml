@@ -15,9 +15,18 @@
     description: Number of general publications related to carbon dioxide removal
       and negative-emissions technologies
     unit:
+- Research|Publications|General Literature on CDR and NET [Share]:
+    description: General publications related to carbon dioxide removal and
+      negative-emissions technologies computed as share of all relevant publications
+      in the given region
+    unit: "%"
 - Research|Publications|{CDR Method}:
     description: Number of publications related to {CDR Method}
     unit:
+- Research|Publications|{CDR Method} [Share]:
+    description: Publications related to {CDR Method} computed as share over all
+      relevant publications in the given region
+    unit: "%"
 - Research|Patents|Climate Change Mitigation:
     description: Number of patents related to all climate change mitigation inventions
       including carbon dioxide removal technologies
