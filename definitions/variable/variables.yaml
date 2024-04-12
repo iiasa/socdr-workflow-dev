@@ -1,10 +1,10 @@
-- Research|Active Grants:
+- Research|Active Grants|Carbon Dioxide Removal:
     description: Number of active grants related to carbon dioxide removal technologies
     unit:
-- Research|Active Grants|{CDR Method}:
+- Research|Active Grants|Carbon Dioxide Removal|{CDR Method}:
     description: Number of active grants related to {CDR Method}
     unit:
-- Research|Funding:
+- Research|Funding|Carbon Dioxide Removal:
     description: Amount of funding on active research grants related to carbon dioxide
       removal technologies
     unit: million USD
