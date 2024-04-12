@@ -5,23 +5,23 @@
     - DAC(CS):
         description: direct air capture in combination with carbon-capture and
           sequestration (CCS)
-    - Soil Carbon:
+    - Soil Carbon Sequestration:
         description: soil carbon sequestration
     - Afforestation and Reforestation:
         description: afforestation and reforestation
-    - Restoration:
-        description: restoration of degraded lands
+    - Restoration of Landscapes and Peats:
+        description: restoration of landscapes and peats
     - Forest Management:
         description: improved forest management
     - Biochar:
         description: use of biochar
     - Enhanced Weathering:
         description: enhanced weathering
-    - Ocean Alkalinity:
+    - Ocean Alkalinity Enhancement:
         description: ocean alkalinity enhancement
     - Blue Carbon:
         description: carbon sequestration in coastal and marine ecosystems
     - Ocean Fertilization:
-        description: ocean fertilization
+        description: ocean fertilization and artificial upwelling
     - Other:
         description: other carbon dioxide removal methods
