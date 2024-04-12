@@ -2,7 +2,8 @@
     - World
 
 - Regions:
-    - North America
+    - North America:
+        description: United States and Canada
     - China
     - Europe
     - Asia
