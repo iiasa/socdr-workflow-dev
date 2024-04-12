@@ -1,7 +1,9 @@
 - Land Removal:
     - Land:
-        description: land removal
-    - Land|Direct:
-        description: direct land removal
+        description: including conventional methods and removals due to indirect
+          carbon fluxes aligned with national greenhouse gas inventories
+    - Land|Conventional CDR:
+        description: using conventional methods, excluding shifting cultivation
     - Land|Indirect:
-        description: indirect land removal
+        description: due to indirect carbon fluxes accounted for in national greenhouse
+          gas inventories but not by scientific models

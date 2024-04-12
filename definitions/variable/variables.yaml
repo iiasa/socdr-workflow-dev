@@ -64,8 +64,8 @@
     note: For statistical indicators, the scenario-name column in the IAMC format should
       refer to the scenario ensemble or selection criteria of scenarios
 - AR6 Reanalysis|OSCARv3.2|Carbon Removal|{Land Removal} [{Quarter-Percentile}]:
-    description: Carbon {Land Removal} using the AR6 reanalysis of the OSCARv3.2 model,
-      given as the {Quarter-Percentile} of a scenario ensemble
+    description: Carbon removal on land {Land Removal} using the AR6 reanalysis of the
+      OSCAR v3.2 model, given as the {Quarter-Percentile} of a scenario ensemble
     unit: Mt CO2/yr
     note: For statistical indicators, the scenario-name column in the IAMC format should
       refer to the scenario ensemble or selection criteria of scenarios
