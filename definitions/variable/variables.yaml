@@ -11,6 +11,10 @@
 - Research|Publications:
     description: Number of publications related to carbon dioxide removal technologies
     unit:
+- Research|Publications|General Literature on CDR and NET:
+    description: Number of general publications related to carbon dioxide removal
+      and negative-emissions technologies
+    unit:
 - Research|Publications|{CDR Method}:
     description: Number of publications related to {CDR Method}
     unit:
