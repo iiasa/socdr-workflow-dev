@@ -1,4 +1,8 @@
-### Common definitions
+### Data folder ###
+
+data/
+
+### Common definitions ###
 common-definitions/
 
 ### IntelliJ PyCharm ###

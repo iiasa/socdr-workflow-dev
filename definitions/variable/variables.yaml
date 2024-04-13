@@ -1,3 +1,39 @@
-- Emissions|CO2:
-    description: Total net emissions of carbon dioxide (CO2)
-    unit: Mt CO2/yr
+- Research|Active Grants:
+    description: Number of active grants related to carbon dioxide removal technologies
+    unit:
+- Research|Active Grants|{CDR Method}:
+    description: Number of active grants related to {CDR Method}
+    unit:
+- Research|Funding:
+    description: Amount of funding on active research grants related to carbon dioxide
+      removal technologies
+    unit: million USD
+- Research|Publications:
+    description: Number of publications related to carbon dioxide removal technologies
+    unit:
+- Research|Publications|General Literature on CDR and NET:
+    description: Number of general publications related to carbon dioxide removal
+      and negative-emissions technologies
+    unit:
+- Research|Publications|General Literature on CDR and NET [Share]:
+    description: General publications related to carbon dioxide removal and
+      negative-emissions technologies computed as share of all relevant publications
+      in the given region
+    unit: "%"
+- Research|Publications|{CDR Method}:
+    description: Number of publications related to {CDR Method}
+    unit:
+- Research|Publications|{CDR Method} [Share]:
+    description: Publications related to {CDR Method} computed as share over all
+      relevant publications in the given region
+    unit: "%"
+- Research|Patents|Climate Change Mitigation:
+    description: Number of patents related to all climate change mitigation inventions
+      including carbon dioxide removal technologies
+    unit:
+- Research|Patents|Carbon Dioxide Removal:
+    description: Number of patents related to all carbon dioxide removal technologies
+    unit:
+- Research|Patents|Carbon Dioxide Removal|{CDR Method}:
+    description: Number of patents related to {CDR Method}
+    unit:
