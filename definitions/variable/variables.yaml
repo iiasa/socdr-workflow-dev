@@ -69,6 +69,15 @@
     unit: Gt CO2/yr
     note: For statistical indicators, the scenario-name column in the IAMC format should
       refer to the scenario ensemble or selection criteria of scenarios
+- Carbon Removal|Land:
+    description: Carbon removal using conventional methods, excluding shifting cultivation
+    unit: Gt CO2/yr
+- Carbon Removal|Land [{Quarter-Percentile}]:
+    description: Carbon removal using conventional methods, excluding shifting cultivation,
+      given as the {Quarter-Percentile} of a scenario ensemble
+    unit: Gt CO2/yr
+    note: For statistical indicators, the scenario-name column in the IAMC format should
+      refer to the scenario ensemble or selection criteria of scenarios
 - AR6 Climate Diagnostics|Infilled|Emissions|CO2 [{Quarter-Percentile}]:
     description: Carbon dioxide (CO2) emissions after "infilling" during the AR6 climate
       diagnostics, given as the {Quarter-Percentile} of a scenario ensemble
