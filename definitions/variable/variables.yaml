@@ -61,7 +61,7 @@
     note: For statistical indicators, the scenario-name column in the IAMC format should
       refer to the scenario ensemble or selection criteria of scenarios
 - Carbon Removal|Novel:
-    description: Carbon removal using novel technologiesia of scenarios
+    description: Carbon removal using novel technologies
     unit: Gt CO2/yr
 - Carbon Removal|Novel [{Quarter-Percentile}]:
     description: Carbon removal using novel technologies as reported by each model,
