@@ -1,0 +1,7 @@
+- Quarter-Percentile:
+    - p25:
+        description: 25th percentile
+    - p50:
+        description: mean
+    - p75:
+        description: 75th percentile
