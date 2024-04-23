@@ -11,12 +11,14 @@
         description: afforestation and reforestation
     - Restoration of Landscapes and Peats:
         description: restoration of landscapes and peats
+    - Agroforestry:
+        description: agroforestry
     - Forest Management:
         description: improved forest management
     - Biochar:
         description: use of biochar
     - Enhanced Weathering:
-        description: enhanced weathering
+        description: application of alkalinity to increase CO2 uptake on land
     - Ocean Alkalinity Enhancement:
         description: ocean alkalinity enhancement
     - Blue Carbon:
