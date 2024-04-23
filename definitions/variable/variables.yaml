@@ -31,8 +31,16 @@
     description: Number of patents related to all climate change mitigation inventions
       including carbon dioxide removal technologies
     unit:
+- Research|Patents|Climate Change Mitigation [relative to 2020]:
+    description: Number of patents related to all climate change mitigation inventions
+      including carbon dioxide removal technologies relative to 2020
+    unit:
 - Research|Patents|Carbon Dioxide Removal:
     description: Number of patents related to all carbon dioxide removal technologies
+    unit:
+- Research|Patents|Carbon Dioxide Removal [relative to 2020]:
+    description: Number of patents related to all carbon dioxide removal technologies
+      relative to 2020
     unit:
 - Research|Patents|Carbon Dioxide Removal|{CDR Method}:
     description: Number of patents related to {CDR Method}
