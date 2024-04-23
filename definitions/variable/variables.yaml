@@ -1,48 +1,48 @@
-- Active Grants|Carbon Dioxide Removal:
+- Research|Active Grants|Carbon Dioxide Removal:
     description: Number of active grants related to carbon dioxide removal technologies
     unit:
-- Active Grants|Carbon Dioxide Removal|{CDR Method}:
+- Research|Active Grants|Carbon Dioxide Removal|{CDR Method}:
     description: Number of active grants related to {CDR Method}
     unit:
-- Research Funding:
+- Research|Funding:
     description: Amount of funding on active research grants related to carbon dioxide
       removal technologies
     unit: million USD
-- Publications|Carbon Dioxide Removal:
+- Research|Publications|Carbon Dioxide Removal:
     description: Number of publications related to carbon dioxide removal technologies
     unit:
-- Publications|Carbon Dioxide Removal|General Literature on CDR and NET:
+- Research|Publications|Carbon Dioxide Removal|General Literature on CDR and NET:
     description: Number of general publications related to carbon dioxide removal
       and negative-emissions technologies
     unit:
-- Publications|Carbon Dioxide Removal|General Literature on CDR and NET [Share]:
+- Research|Publications|Carbon Dioxide Removal|General Literature on CDR and NET [Share]:
     description: General publications related to carbon dioxide removal and
       negative-emissions technologies computed as share of all relevant publications
       in the given region
     unit: "%"
-- Publications|Carbon Dioxide Removal|{CDR Method}:
+- Research|Publications|Carbon Dioxide Removal|{CDR Method}:
     description: Number of publications related to {CDR Method}
     unit:
-- Publications|Carbon Dioxide Removal|{CDR Method} [Share]:
+- Research|Publications|Carbon Dioxide Removal|{CDR Method} [Share]:
     description: Publications related to {CDR Method} computed as share over all
       relevant publications in the given region
     unit: "%"
-- Patents|Climate Change Mitigation:
+- Research|Patents|Climate Change Mitigation:
     description: Number of patents related to all climate change mitigation inventions
       including carbon dioxide removal technologies
     unit:
-- Patents|Climate Change Mitigation [relative to 2020]:
+- Research|Patents|Climate Change Mitigation [relative to 2020]:
     description: Number of patents related to all climate change mitigation inventions
       including carbon dioxide removal technologies relative to 2020
     unit:
-- Patents|Carbon Dioxide Removal:
+- Research|Patents|Carbon Dioxide Removal:
     description: Number of patents related to all carbon dioxide removal technologies
     unit:
-- Patents|Carbon Dioxide Removal [relative to 2020]:
+- Research|Patents|Carbon Dioxide Removal [relative to 2020]:
     description: Number of patents related to all carbon dioxide removal technologies
       relative to 2020
     unit:
-- Patents|Carbon Dioxide Removal|{CDR Method}:
+- Research|Patents|Carbon Dioxide Removal|{CDR Method}:
     description: Number of patents related to {CDR Method}
     unit:
 
