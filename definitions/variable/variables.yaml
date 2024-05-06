@@ -69,6 +69,22 @@
     description:  Number of net-zero initiatives start-up firms related to {Conventional CDR Method}
     unit:
 - Start-Up|Deals:
+- Carbon Credits|Issued Credits:
+    description: Quantity of credits issued in the voluntary carbon removal market
+    unit: Mt CO2
+- Carbon Credits|Issued Credits|{CDR Market Credit Type}:
+    description: Quantity of credits issued in the voluntary carbon removal market from
+      {CDR Market Credit Type}
+    unit: Mt CO2
+- Carbon Credits|Sold Credits:
+    description: Quantity of credits sold in the voluntary removal market
+    unit: Mt CO2
+- Carbon Credits|Sold Credits|{CDR Market Credit Type}:
+    description: Quantity of credits sold in the voluntary removal market using
+      {CDR Market Credit Type}
+    unit: Mt CO2
+
+- Start-Up Investment|Deals:
     description: Number of deals related to all net-zero initiatives start-ups
     unit:
 - Start-Up|Deals|Removal:
