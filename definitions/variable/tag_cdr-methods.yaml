@@ -15,10 +15,17 @@
         description: agroforestry
     - Forest Management:
         description: improved forest management
+    - Biomass Burial:
+        description: burial of biomass on land
     - Biochar:
         description: use of biochar
     - Enhanced Weathering:
         description: application of alkalinity to increase CO2 uptake on land
+    - Biomass Sinking:
+        description: sinking of biomass in the ocean
+    - Direct Ocean Capture:
+        description: direct capture of CO2 from the ocean in combination with
+          carbon sequestration (CCS)
     - Ocean Alkalinity Enhancement:
         description: ocean alkalinity enhancement
     - Blue Carbon:
