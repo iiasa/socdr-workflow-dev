@@ -70,16 +70,17 @@
     unit:
 - Start-Up|Deals:
 - Carbon Credits|Issued Credits:
+- Carbon Credits|Quantity Issued:
     description: Quantity of credits issued in the voluntary carbon removal market
     unit: Mt CO2
-- Carbon Credits|Issued Credits|{CDR Market Credit Type}:
+- Carbon Credits|Quantity Issued|{CDR Market Credit Type}:
     description: Quantity of credits issued in the voluntary carbon removal market from
       {CDR Market Credit Type}
     unit: Mt CO2
-- Carbon Credits|Sold Credits:
+- Carbon Credits|Quantity Sold:
     description: Quantity of credits sold in the voluntary removal market
     unit: Mt CO2
-- Carbon Credits|Sold Credits|{CDR Market Credit Type}:
+- Carbon Credits|Quantity Sold|{CDR Market Credit Type}:
     description: Quantity of credits sold in the voluntary removal market using
       {CDR Market Credit Type}
     unit: Mt CO2
