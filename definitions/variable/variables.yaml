@@ -1,8 +1,11 @@
 - Research|Active Grants|Carbon Dioxide Removal:
     description: Number of active grants related to carbon dioxide removal technologies
     unit:
-- Research|Active Grants|Carbon Dioxide Removal|{CDR Method}:
-    description: Number of active grants related to {CDR Method}
+- Research|Active Grants|Carbon Dioxide Removal|{Novel CDR Method}:
+    description: Number of active grants related to {Novel CDR Method}
+    unit:
+- Research|Active Grants|Carbon Dioxide Removal|{Conventional CDR Method}:
+    description: Number of active grants related to {Conventional CDR Method}
     unit:
 - Research|Funding:
     description: Amount of funding on active research grants related to carbon dioxide
@@ -20,11 +23,18 @@
       negative-emissions technologies computed as share of all relevant publications
       in the given region
     unit: "%"
-- Research|Publications|Carbon Dioxide Removal|{CDR Method}:
-    description: Number of publications related to {CDR Method}
+- Research|Publications|Carbon Dioxide Removal|{Novel CDR Method}:
+    description: Number of publications related to {Novel CDR Method}
     unit:
-- Research|Publications|Carbon Dioxide Removal|{CDR Method} [Share]:
-    description: Publications related to {CDR Method} computed as share over all
+- Research|Publications|Carbon Dioxide Removal|{Conventional CDR Method}:
+    description: Number of publications related to {Conventional CDR Method}
+    unit:
+- Research|Publications|Carbon Dioxide Removal|{Novel CDR Method} [Share]:
+    description: Publications related to {Novel CDR Method} computed as share over all
+      relevant publications in the given region
+    unit: "%"
+- Research|Publications|Carbon Dioxide Removal|{Conventional CDR Method} [Share]:
+    description: Publications related to {Conventional CDR Method} computed as share over all
       relevant publications in the given region
     unit: "%"
 - Research|Patents|Climate Change Mitigation:
@@ -42,8 +52,11 @@
     description: Number of patents related to all carbon dioxide removal technologies
       relative to 2020
     unit:
-- Research|Patents|Carbon Dioxide Removal|{CDR Method}:
-    description: Number of patents related to {CDR Method}
+- Research|Patents|Carbon Dioxide Removal|{Novel CDR Method}:
+    description: Number of patents related to {Novel CDR Method}
+    unit:
+- Research|Patents|Carbon Dioxide Removal|{Conventional CDR Method}:
+    description: Number of patents related to {Conventional CDR Method}
     unit:
 
 - Start-Up Investment|Deals:
@@ -52,35 +65,54 @@
 - Start-Up Investment|Deals|Removal:
     description: Number of deals related to carbon dioxide removal
     unit:
-- Start-Up Investment|Deals|Removal|{CDR Method}:
-    description: Number of deals related to {CDR Method}
+- Start-Up Investment|Deals|Removal|{Novel CDR Method}:
+    description: Number of deals related to {Novel CDR Method}
     unit:
-- Start-Up Investment|Deals|Removal|{CDR Method}|{Deal Type} [Share]:
-    description: Number of {Deal Type} deals related to {CDR Method}
+- Start-Up Investment|Deals|Removal|{Conventional CDR Method}:
+    description: Number of deals related to {Conventional CDR Method}
+    unit:
+- Start-Up Investment|Deals|Removal|{Novel CDR Method}|{Deal Type} [Share]:
+    description: Share of {Deal Type} deals related to {Novel CDR Method}
+      relative to total number of deals
     unit: "%"
+- Start-Up Investment|Deals|Removal|{Conventional CDR Method}|{Deal Type} [Share]:
+    description: Share of {Deal Type} deals related to {Conventional CDR Method}
+      relative to total number of deals
+    unit: "%"
+
 - Start-Up Investment|Funding:
     description: Amount of investment in all net-zero initiatives start-ups
     unit: billion USD
 - Start-Up Investment|Funding|Removal:
     description: Amount of investment in CDR start-ups
     unit: billion USD
-- Start-Up Investment|Funding|Removal|{CDR Method}:
-    description: Amount of investment in start-ups related to {CDR Method}
+- Start-Up Investment|Funding|Removal|{Novel CDR Method}:
+    description: Amount of investment in start-ups related to {Novel CDR Method}
+    unit: billion USD
+- Start-Up Investment|Funding|Removal|{Conventional CDR Method}:
+    description: Amount of investment in start-ups related to {Conventional CDR Method}
     unit: billion USD
 
 - Planned Projects|Removal:
     description: Planned projects for carbon dioxide removal
     unit: Mt CO2
-- Planned Projects|Removal|{CDR Method}:
-    description: Planned projects for carbon dioxide removal using {CDR Method}
+- Planned Projects|Removal|{Novel CDR Method}:
+    description: Planned projects for carbon dioxide removal using {Novel CDR Method}
+    unit: Mt CO2
+- Planned Projects|Removal|{Conventional CDR Method}:
+    description: Planned projects for carbon dioxide removal using {Conventional CDR Method}
     unit: Mt CO2
 
 - Company Announcements|Removal:
     description: Publicly announced company ambitions for carbon dioxide removal
     unit: Mt CO2
-- Company Announcements|Removal|{CDR Method}:
+- Company Announcements|Removal|{Novel CDR Method}:
     description: Publicly announced company ambitions for carbon dioxide removal
-      using {CDR Method}
+      using {Novel CDR Method}
+    unit: Mt CO2
+- Company Announcements|Removal|{Conventional CDR Method}:
+    description: Publicly announced company ambitions for carbon dioxide removal
+      using {Conventional CDR Method}
     unit: Mt CO2
 
 - Gross Emissions|CO2 [Reductions relative to 2020]:
