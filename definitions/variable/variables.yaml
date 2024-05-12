@@ -103,24 +103,24 @@
     unit: billion USD
 
 - Planned Projects|Removal:
-    description: Planned projects for carbon dioxide removal
+    description: Planned near-term projects for carbon dioxide removal
     unit: Mt CO2
 - Planned Projects|Removal|{Novel CDR Method}:
-    description: Planned projects for carbon dioxide removal using {Novel CDR Method}
+    description: Planned near-term projects for carbon dioxide removal using {Novel CDR Method}
     unit: Mt CO2
 - Planned Projects|Removal|{Conventional CDR Method}:
-    description: Planned projects for carbon dioxide removal using {Conventional CDR Method}
+    description: Planned near-term projects for carbon dioxide removal using {Conventional CDR Method}
     unit: Mt CO2
 
 - Company Announcements|Removal:
-    description: Publicly announced company ambitions for carbon dioxide removal
+    description: Publicly announced long-term company ambitions for carbon dioxide removal
     unit: Mt CO2
 - Company Announcements|Removal|{Novel CDR Method}:
-    description: Publicly announced company ambitions for carbon dioxide removal
+    description: Publicly announced long-term company ambitions for carbon dioxide removal
       using {Novel CDR Method}
     unit: Mt CO2
 - Company Announcements|Removal|{Conventional CDR Method}:
-    description: Publicly announced company ambitions for carbon dioxide removal
+    description: Publicly announced long-term company ambitions for carbon dioxide removal
       using {Conventional CDR Method}
     unit: Mt CO2
 
