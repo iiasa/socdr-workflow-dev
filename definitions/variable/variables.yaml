@@ -59,37 +59,37 @@
     description: Number of patents related to {Conventional CDR Method}
     unit:
 
-- Start-Up Investment|Deals:
+- Start-Up|Number of Firms:
     description: Number of deals related to all net-zero initiatives start-ups
     unit:
-- Start-Up Investment|Deals|Removal:
+- Start-Up|Deals|Removal:
     description: Number of deals related to carbon dioxide removal
     unit:
-- Start-Up Investment|Deals|Removal|{Novel CDR Method}:
+- Start-Up|Deals|Removal|{Novel CDR Method}:
     description: Number of deals related to {Novel CDR Method}
     unit:
-- Start-Up Investment|Deals|Removal|{Conventional CDR Method}:
+- Start-Up|Deals|Removal|{Conventional CDR Method}:
     description: Number of deals related to {Conventional CDR Method}
     unit:
-- Start-Up Investment|Deals|Removal|{Novel CDR Method}|{Deal Type} [Share]:
+- Start-Up|Deals|Removal|{Novel CDR Method}|{Deal Type} [Share]:
     description: Share of {Deal Type} deals related to {Novel CDR Method}
       relative to total number of deals
     unit: "%"
-- Start-Up Investment|Deals|Removal|{Conventional CDR Method}|{Deal Type} [Share]:
+- Start-Up|Deals|Removal|{Conventional CDR Method}|{Deal Type} [Share]:
     description: Share of {Deal Type} deals related to {Conventional CDR Method}
       relative to total number of deals
     unit: "%"
 
-- Start-Up Investment|Funding:
+- Start-Up|Funding:
     description: Amount of investment in all net-zero initiatives start-ups
     unit: billion USD
-- Start-Up Investment|Funding|Removal:
+- Start-Up|Funding|Removal:
     description: Amount of investment in CDR start-ups
     unit: billion USD
-- Start-Up Investment|Funding|Removal|{Novel CDR Method}:
+- Start-Up|Funding|Removal|{Novel CDR Method}:
     description: Amount of investment in start-ups related to {Novel CDR Method}
     unit: billion USD
-- Start-Up Investment|Funding|Removal|{Conventional CDR Method}:
+- Start-Up|Funding|Removal|{Conventional CDR Method}:
     description: Amount of investment in start-ups related to {Conventional CDR Method}
     unit: billion USD
 
