@@ -62,10 +62,13 @@
 - Start-Up|Number of Firms:
     description: Number of all net-zero initiatives start-up firms
     unit:
-- Start-Up|Number of Firms|{Novel CDR Method}:
+- Start-Up|Number of Firms|Removal:
+    description: Number of all CDR start-up firms
+    unit:
+- Start-Up|Number of Firms|Removal|{Novel CDR Method}:
     description: Number of net-zero initiatives start-up firms related to {Novel CDR Method}
     unit:
-- Start-Up|Number of Firms|{Conventional CDR Method}:
+- Start-Up|Number of Firms|Removal|{Conventional CDR Method}:
     description:  Number of net-zero initiatives start-up firms related to {Conventional CDR Method}
     unit:
 - Start-Up|Deals:
