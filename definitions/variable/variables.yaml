@@ -69,23 +69,6 @@
     description:  Number of net-zero initiatives start-up firms related to {Conventional CDR Method}
     unit:
 - Start-Up|Deals:
-- Carbon Credits|Issued Credits:
-- Carbon Credits|Quantity Issued:
-    description: Quantity of credits issued in the voluntary carbon removal market
-    unit: Mt CO2
-- Carbon Credits|Quantity Issued|{CDR Market Credit Type}:
-    description: Quantity of credits issued in the voluntary carbon removal market from
-      {CDR Market Credit Type}
-    unit: Mt CO2
-- Carbon Credits|Quantity Sold:
-    description: Quantity of credits sold in the voluntary removal market
-    unit: Mt CO2
-- Carbon Credits|Quantity Sold|{CDR Market Credit Type}:
-    description: Quantity of credits sold in the voluntary removal market using
-      {CDR Market Credit Type}
-    unit: Mt CO2
-
-- Start-Up Investment|Deals:
     description: Number of deals related to all net-zero initiatives start-ups
     unit:
 - Start-Up|Deals|Removal:
@@ -118,6 +101,47 @@
 - Start-Up|Funding|Removal|{Conventional CDR Method}:
     description: Amount of investment in start-ups related to {Conventional CDR Method}
     unit: billion USD
+
+- Carbon Credits|Novel CDR|Tons Sold:
+    description: Quantity of credits sold (purchased) in the voluntary carbon removal market
+      using novel CDR methods
+    unit: Mt CO2
+- Carbon Credits|Novel CDR|Tons Sold|{Novel CDR Method}:
+    description: Quantity of credits sold (purchased) in the voluntary carbon removal market
+      using {Novel CDR Method}
+    unit: Mt CO2
+- Carbon Credits|Novel CDR|Tons Sold|Not Disclosed:
+    description: Quantity of credits sold (purchased) in the voluntary carbon removal market
+      where the removal method was not disclosed
+    unit: Mt CO2
+- Carbon Credits|Novel CDR|Tons Delivered:
+    description: Quantity of credits delivered in the voluntary carbon removal market
+      using novel CDR methods
+    unit: Mt CO2
+- Carbon Credits|Novel CDR|Tons Delivered|{Novel CDR Method}:
+    description: Quantity of credits delivered in the voluntary carbon removal market
+      using {Novel CDR Method}
+    unit: Mt CO2
+- Carbon Credits|Novel CDR|Tons Delivered|Not Disclosed:
+    description: Quantity of credits delivered in the voluntary carbon removal market
+      where the removal method was not disclosed
+    unit: Mt CO2
+- Carbon Credits|Conventional CDR|Tons Issued:
+    description: Quantity of credits issued in the voluntary carbon removal market
+      using conventional CDR methods
+    unit: Mt CO2
+- Carbon Credits|Conventional CDR|Tons Issued|{Conventional CDR Method}:
+    description: Quantity of credits issued in the voluntary carbon removal market
+      using {Conventional CDR Method}
+    unit: Mt CO2
+- Carbon Credits|Conventional CDR|Tons Retired:
+    description: Quantity of credits retired in the voluntary carbon removal market
+      using conventional CDR methods
+    unit: Mt CO2
+- Carbon Credits|Conventional CDR|Tons Retired|{Conventional CDR Method}:
+    description: Quantity of credits retired in the voluntary carbon removal market
+      using {Conventional CDR Method}
+    unit: Mt CO2
 
 - Planned Projects|Removal:
     description: Planned near-term projects for carbon dioxide removal
