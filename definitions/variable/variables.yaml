@@ -106,44 +106,44 @@
     unit: billion USD
 
 - Carbon Credits|Novel CDR|Tons Sold:
-    description: Quantity of credits sold (purchased) in the voluntary carbon removal market
-      using novel CDR methods
+    description: Credits sold (purchased) in the voluntary carbon removal market
+      using novel CDR methods, measured in terms of carbon removed
     unit: Mt CO2
 - Carbon Credits|Novel CDR|Tons Sold|{Novel CDR Method}:
-    description: Quantity of credits sold (purchased) in the voluntary carbon removal market
-      using {Novel CDR Method}
+    description: Credits sold (purchased) in the voluntary carbon removal market
+      using {Novel CDR Method}, measured in terms of carbon removed
     unit: Mt CO2
 - Carbon Credits|Novel CDR|Tons Sold|Not Disclosed:
-    description: Quantity of credits sold (purchased) in the voluntary carbon removal market
-      where the removal method was not disclosed
+    description: Credits sold (purchased) in the voluntary carbon removal market
+      where the removal method was not disclosed, measured in terms of carbon removed
     unit: Mt CO2
 - Carbon Credits|Novel CDR|Tons Delivered:
-    description: Quantity of credits delivered in the voluntary carbon removal market
-      using novel CDR methods
+    description: Credits delivered in the voluntary carbon removal market
+      using novel CDR methods, measured in terms of carbon removed
     unit: Mt CO2
 - Carbon Credits|Novel CDR|Tons Delivered|{Novel CDR Method}:
-    description: Quantity of credits delivered in the voluntary carbon removal market
-      using {Novel CDR Method}
+    description: Credits delivered in the voluntary carbon removal market
+      using {Novel CDR Method}, measured in terms of carbon removed
     unit: Mt CO2
 - Carbon Credits|Novel CDR|Tons Delivered|Not Disclosed:
-    description: Quantity of credits delivered in the voluntary carbon removal market
-      where the removal method was not disclosed
+    description: Credits delivered in the voluntary carbon removal market
+      where the removal method was not disclosed, measured in terms of carbon removed
     unit: Mt CO2
 - Carbon Credits|Conventional CDR|Tons Issued:
-    description: Quantity of credits issued in the voluntary carbon removal market
-      using conventional CDR methods
+    description: Credits issued in the voluntary carbon removal market
+      using conventional CDR methods, measured in terms of carbon removed
     unit: Mt CO2
 - Carbon Credits|Conventional CDR|Tons Issued|{Conventional CDR Method}:
-    description: Quantity of credits issued in the voluntary carbon removal market
-      using {Conventional CDR Method}
+    description: Credits issued in the voluntary carbon removal market
+      using {Conventional CDR Method}, measured in terms of carbon removed
     unit: Mt CO2
-- Carbon Credits|Conventional CDR|Tons Retired:
-    description: Quantity of credits retired in the voluntary carbon removal market
+- Carbon Credits|Conventional CDR|Tons Sold:
+    description: Credits sold (retired) in the voluntary carbon removal market
       using conventional CDR methods
     unit: Mt CO2
-- Carbon Credits|Conventional CDR|Tons Retired|{Conventional CDR Method}:
-    description: Quantity of credits retired in the voluntary carbon removal market
-      using {Conventional CDR Method}
+- Carbon Credits|Conventional CDR|Tons Sold|{Conventional CDR Method}:
+    description: Credits sold (retired) in the voluntary carbon removal market
+      using {Conventional CDR Method}, measured in terms of carbon removed
     unit: Mt CO2
 
 - Planned Projects|Removal:
