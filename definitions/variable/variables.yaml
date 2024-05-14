@@ -238,3 +238,17 @@
 - Social Media Activity|Number of Tweets|{Conventional CDR Method}:
     description: Number of "tweets" about {Conventional CDR Method}
     unit: thousand
+
+- Newspapers|Number of Articles:
+    description: Number of newspaper articles about carbon dioxide removal
+    unit:
+- Newspapers|Number of Articles|General CDR:
+    description: Number of newspaper articles about carbon dioxide removal that are not
+      specific to a particular method
+    unit:
+- Newspapers|Number of Articles|{Novel CDR Method}:
+    description: Number of newspaper articles about {Novel CDR Method}
+    unit:
+- Newspapers|Number of Articles|{Conventional CDR Method}:
+    description: Number of newspaper articles about {Conventional CDR Method}
+    unit:
