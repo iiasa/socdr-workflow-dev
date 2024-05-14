@@ -226,14 +226,15 @@
       refer to the scenario ensemble or selection criteria of scenarios
 
 - Social Media Activity|Number of Tweets:
-    description: Number of "tweets" on carbon dioxide removal
+    description: Number of "tweets" about carbon dioxide removal
     unit: thousand
 - Social Media Activity|Number of Tweets|General CDR:
-    description: Number of "tweets" about CDR in general
+    description: Number of "tweets" about carbon dioxide removal that are not specific
+      to a particular method
     unit: thousand
 - Social Media Activity|Number of Tweets|{Novel CDR Method}:
-    description: Number of "tweets" on {Novel CDR Method}
+    description: Number of "tweets" about {Novel CDR Method}
     unit: thousand
 - Social Media Activity|Number of Tweets|{Conventional CDR Method}:
-    description: Number of "tweets" on {Conventional CDR Method}
+    description: Number of "tweets" about {Conventional CDR Method}
     unit: thousand
