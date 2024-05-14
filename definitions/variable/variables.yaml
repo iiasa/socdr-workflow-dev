@@ -225,17 +225,17 @@
     note: For statistical indicators, the scenario-name column in the IAMC format should
       refer to the scenario ensemble or selection criteria of scenarios
 
-- Social Media Activity|Number of Tweets:
+- Social Media|Number of Tweets:
     description: Number of "tweets" about carbon dioxide removal
     unit: thousand
-- Social Media Activity|Number of Tweets|General CDR:
+- Social Media|Number of Tweets|General CDR:
     description: Number of "tweets" about carbon dioxide removal that are not specific
       to a particular method
     unit: thousand
-- Social Media Activity|Number of Tweets|{Novel CDR Method}:
+- Social Media|Number of Tweets|{Novel CDR Method}:
     description: Number of "tweets" about {Novel CDR Method}
     unit: thousand
-- Social Media Activity|Number of Tweets|{Conventional CDR Method}:
+- Social Media|Number of Tweets|{Conventional CDR Method}:
     description: Number of "tweets" about {Conventional CDR Method}
     unit: thousand
 
