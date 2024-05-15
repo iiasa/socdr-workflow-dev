@@ -178,44 +178,45 @@
       not accounting for negative emissions from bioenergy with CCS (BECCS) or
       agriculture, forestry and other land use (AFOLU)
     unit: Gt CO2/yr
-- Gross Emissions|CO2 [Reductions relative to 2020] [{Quarter-Percentile}]:
+- Gross Emissions|CO2 [Reductions relative to 2020] [{Percentile}]:
     description: Reductions of gross emissions of carbon dioxide (CO2) relative to 2020
       not accounting for negative emissions from bioenergy with CCS (BECCS) or
       agriculture, forestry and other land use (AFOLU), given as the
-      {Quarter-Percentile} of a scenario ensemble
+      {Percentile} of a scenario ensemble
     unit: Gt CO2/yr
     note: For statistical indicators, the scenario-name column in the IAMC format should
       refer to the scenario ensemble or selection criteria of scenarios
 - Carbon Removal:
     description: Total carbon removal
     unit: Gt CO2/yr
-- Carbon Removal [{Quarter-Percentile}]:
+- Carbon Removal [{Percentile}]:
     description: Total carbon removal as reported by each model, given as the
-      {Quarter-Percentile} of a scenario ensemble
+      {Percentile} of a scenario ensemble
     unit: Gt CO2/yr
     note: For statistical indicators, the scenario-name column in the IAMC format should
       refer to the scenario ensemble or selection criteria of scenarios
 - Carbon Removal|Novel:
     description: Carbon removal using novel technologies
     unit: Gt CO2/yr
-- Carbon Removal|Novel [{Quarter-Percentile}]:
+- Carbon Removal|Novel [{Percentile}]:
     description: Carbon removal using novel technologies as reported by each model,
-      given as the {Quarter-Percentile} of a scenario ensemble
+      given as the {Percentile} of a scenario ensemble
     unit: Gt CO2/yr
     note: For statistical indicators, the scenario-name column in the IAMC format should
       refer to the scenario ensemble or selection criteria of scenarios
-- Carbon Removal|Land:
-    description: Carbon removal using conventional methods, excluding shifting cultivation
+- Carbon Removal|Conventional:
+    description: Carbon removal using conventional methods (on land), excluding shifting
+      cultivation
     unit: Gt CO2/yr
-- Carbon Removal|Land [{Quarter-Percentile}]:
-    description: Carbon removal using conventional methods, excluding shifting cultivation,
-      given as the {Quarter-Percentile} of a scenario ensemble
+- Carbon Removal|Conventional [{Percentile}]:
+    description: Carbon removal using conventional methods (on land), excluding shifting
+      cultivation, given as the {Percentile} of a scenario ensemble
     unit: Gt CO2/yr
     note: For statistical indicators, the scenario-name column in the IAMC format should
       refer to the scenario ensemble or selection criteria of scenarios
-- AR6 Climate Diagnostics|Infilled|Emissions|CO2 [{Quarter-Percentile}]:
+- AR6 Climate Diagnostics|Infilled|Emissions|CO2 [{Percentile}]:
     description: Carbon dioxide (CO2) emissions after "infilling" during the AR6 climate
-      diagnostics, given as the {Quarter-Percentile} of a scenario ensemble
+      diagnostics, given as the {Percentile} of a scenario ensemble
     unit: Gt CO2/yr
     note: For statistical indicators, the scenario-name column in the IAMC format should
       refer to the scenario ensemble or selection criteria of scenarios
@@ -223,9 +224,9 @@
     description: Carbon removal on land {Land Removal} using the AR6 reanalysis of the
       OSCAR v3.2 model
     unit: Gt CO2/yr
-- AR6 Reanalysis|OSCARv3.2|Carbon Removal|{Land Removal} [{Quarter-Percentile}]:
+- AR6 Reanalysis|OSCARv3.2|Carbon Removal|{Land Removal} [{Percentile}]:
     description: Carbon removal on land {Land Removal} using the AR6 reanalysis of the
-      OSCAR v3.2 model, given as the {Quarter-Percentile} of a scenario ensemble
+      OSCAR v3.2 model, given as the {Percentile} of a scenario ensemble
     unit: Gt CO2/yr
     note: For statistical indicators, the scenario-name column in the IAMC format should
       refer to the scenario ensemble or selection criteria of scenarios
