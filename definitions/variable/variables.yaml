@@ -1,61 +1,61 @@
-- Research|Active Grants|Carbon Dioxide Removal:
+- Research|Removal|Active Grants:
     description: Number of active grants related to carbon dioxide removal technologies
     unit:
-- Research|Active Grants|Carbon Dioxide Removal|{Novel CDR Method}:
+- Research|Removal|Active Grants|{Novel CDR Method}:
     description: Number of active grants related to {Novel CDR Method}
     unit:
-- Research|Active Grants|Carbon Dioxide Removal|{Conventional CDR Method}:
+- Research|Removal|Active Grants|{Conventional CDR Method}:
     description: Number of active grants related to {Conventional CDR Method}
     unit:
-- Research|Funding:
+- Research|Removal|Funding:
     description: Amount of funding on active research grants related to carbon dioxide
       removal technologies
     unit: million USD
-- Research|Publications|Carbon Dioxide Removal:
+- Research|Removal|Publications:
     description: Number of publications related to carbon dioxide removal technologies
     unit:
-- Research|Publications|Carbon Dioxide Removal|General Literature on CDR and NET:
+- Research|Removal|Publications|General Literature on CDR and NET:
     description: Number of general publications related to carbon dioxide removal
       and negative-emissions technologies
     unit:
-- Research|Publications|Carbon Dioxide Removal|General Literature on CDR and NET [Share]:
+- Research|Removal|Publications|General Literature on CDR and NET [Share]:
     description: General publications related to carbon dioxide removal and
       negative-emissions technologies computed as share of all relevant publications
       in the given region
     unit: "%"
-- Research|Publications|Carbon Dioxide Removal|{Novel CDR Method}:
+- Research|Removal|Publications|{Novel CDR Method}:
     description: Number of publications related to {Novel CDR Method}
     unit:
-- Research|Publications|Carbon Dioxide Removal|{Conventional CDR Method}:
+- Research|Removal|Publications|{Conventional CDR Method}:
     description: Number of publications related to {Conventional CDR Method}
     unit:
-- Research|Publications|Carbon Dioxide Removal|{Novel CDR Method} [Share]:
+- Research|Removal|Publications|{Novel CDR Method} [Share]:
     description: Publications related to {Novel CDR Method} computed as share over all
       relevant publications in the given region
     unit: "%"
-- Research|Publications|Carbon Dioxide Removal|{Conventional CDR Method} [Share]:
+- Research|Removal|Publications|{Conventional CDR Method} [Share]:
     description: Publications related to {Conventional CDR Method} computed as share over all
       relevant publications in the given region
     unit: "%"
-- Research|Patents|Climate Change Mitigation:
+- Research|Mitigation|Patents:
     description: Number of patents related to all climate change mitigation inventions
       including carbon dioxide removal technologies
     unit:
-- Research|Patents|Climate Change Mitigation [relative to 2020]:
+- Research|Mitigation|Patents [relative to 2020]:
     description: Number of patents related to all climate change mitigation inventions
       including carbon dioxide removal technologies relative to 2020
     unit:
-- Research|Patents|Carbon Dioxide Removal:
+- Research|Removal|Patents:
     description: Number of patents related to all carbon dioxide removal technologies
     unit:
-- Research|Patents|Carbon Dioxide Removal [relative to 2020]:
+- Research|Removal|Patents [relative to 2020]:
     description: Number of patents related to all carbon dioxide removal technologies
       relative to 2020
     unit:
-- Research|Patents|Carbon Dioxide Removal|{Novel CDR Method}:
+- Research|Removal|Patents|{Novel CDR Method}:
     description: Number of patents related to {Novel CDR Method}
     unit:
-- Research|Patents|Carbon Dioxide Removal|{Conventional CDR Method}:
+- Research|Removal|Patents|{Conventional CDR Method}:
     description: Number of patents related to {Conventional CDR Method}
     unit:
 
