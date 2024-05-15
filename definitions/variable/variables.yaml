@@ -254,3 +254,24 @@
 - Newspapers|All Publications|Number of Articles|{Conventional CDR Method}:
     description: Number of newspaper articles about {Conventional CDR Method}
     unit:
+
+- Monitoring, Verification and Reporting|Protocols Developed:
+    description: Potocols developed for monitoring, verification, and reporting (MVR)
+      of carbon dioxide removal
+    unit:
+- Monitoring, Verification and Reporting|Protocols Developed|Cross-Method Protocol:
+    description: Potocols developed for monitoring, verification, and reporting (MVR)
+      of carbon dioxide removal that are relevant across methods
+    unit:
+- Monitoring, Verification and Reporting|Protocols Developed|Carbon Capture and Storage:
+    description: Potocols developed for monitoring, verification, and reporting (MVR)
+      of carbon dioxide removal using any form of carbon capture and storage (CCS)
+    unit:
+- Monitoring, Verification and Reporting|Protocols Developed|{Novel CDR Method}:
+    description: Potocols developed for monitoring, verification, and reporting (MVR)
+      of carbon dioxide removal using {Novel CDR Method}
+    unit:
+- Monitoring, Verification and Reporting|Protocols Developed|{Conventional CDR Method}:
+    description: Potocols developed for monitoring, verification, and reporting (MVR)
+      of carbon dioxide removal using {Conventional CDR Method}
+    unit:
