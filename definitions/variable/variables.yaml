@@ -224,3 +224,33 @@
     unit: Gt CO2/yr
     note: For statistical indicators, the scenario-name column in the IAMC format should
       refer to the scenario ensemble or selection criteria of scenarios
+
+- Social Media|Number of Tweets:
+    description: Number of "tweets" about carbon dioxide removal
+    unit: thousand
+- Social Media|Number of Tweets|General CDR:
+    description: Number of "tweets" about carbon dioxide removal that are not specific
+      to a particular method
+    unit: thousand
+- Social Media|Number of Tweets|{Novel CDR Method}:
+    description: Number of "tweets" about {Novel CDR Method}
+    unit: thousand
+- Social Media|Number of Tweets|{Conventional CDR Method}:
+    description: Number of "tweets" about {Conventional CDR Method}
+    unit: thousand
+
+- Newspapers|All Publications|Number of Articles:
+    description: Number of newspaper articles about carbon dioxide removal across
+      all studied publications
+    unit:
+- Newspapers|All Publications|Number of Articles|General CDR:
+    description: Number of newspaper articles about carbon dioxide removal that are not
+      specific to a particular method across all studied publications
+    unit:
+- Newspapers|All Publications|Number of Articles|{Novel CDR Method}:
+    description: Number of newspaper articles about {Novel CDR Method} 
+      specific to a particular method across all studied publications
+    unit:
+- Newspapers|All Publications|Number of Articles|{Conventional CDR Method}:
+    description: Number of newspaper articles about {Conventional CDR Method}
+    unit:
