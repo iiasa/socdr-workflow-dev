@@ -11,6 +11,12 @@
     description: Amount of funding on active research grants related to carbon dioxide
       removal technologies
     unit: million USD
+- Research|Removal|Funding|{Novel CDR Method}:
+    description: Amount of funding on active research grants related to {Novel CDR Method}
+    unit: million USD
+- Research|Removal|Funding|{Conventional CDR Method}:
+    description: Amount of funding on active research grants related to {Conventional CDR Method}
+    unit: million USD
 - Research|Removal|Publications:
     description: Number of publications related to carbon dioxide removal technologies
     unit:
