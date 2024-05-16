@@ -1,7 +1,15 @@
-- Quarter-Percentile:
+- Percentile:
+    - Minimum:
+        description: minimum
+    - p05:
+        description: 5th percentile
     - p25:
         description: 25th percentile
-    - p50:
-        description: mean
+    - Median:
+        description: median
     - p75:
         description: 75th percentile
+    - p95:
+        description: 95th percentile
+    - Maximum:
+        description: maximum
