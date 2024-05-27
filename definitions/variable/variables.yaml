@@ -1,5 +1,10 @@
 - Research|Removal|Active Grants:
-    description: Number of active grants related to carbon dioxide removal technologies
+    description: Number of active grants related to carbon dioxide removal in general
+      or to any specific removal method or net-negative emissions technology
+    unit:
+- Research|Removal|Active Grants|General:
+    description: Number of active grants related to carbon dioxide removal
+      and negative-emissions technologies in general
     unit:
 - Research|Removal|Active Grants|{Novel CDR Method}:
     description: Number of active grants related to {Novel CDR Method}
@@ -9,7 +14,11 @@
     unit:
 - Research|Removal|Funding:
     description: Amount of funding on active research grants related to carbon dioxide
-      removal technologies
+      removal in general or to any specific removal method or net-negative emissions technology
+    unit: million USD
+- Research|Removal|Funding|General:
+    description: Amount of funding on active research grants related to carbon dioxide
+      removal and negative-emissions technologies in general
     unit: million USD
 - Research|Removal|Funding|{Novel CDR Method}:
     description: Amount of funding on active research grants related to {Novel CDR Method}
@@ -18,11 +27,12 @@
     description: Amount of funding on active research grants related to {Conventional CDR Method}
     unit: million USD
 - Research|Removal|Publications:
-    description: Number of publications related to carbon dioxide removal technologies
+    description: Number of publications related to carbon dioxide removal in general or
+      to any specific removal method or net-negative emissions technology
     unit:
 - Research|Removal|Publications|General:
     description: Number of general publications related to carbon dioxide removal
-      and negative-emissions technologies
+      and negative-emissions technologies in general
     unit:
 - Research|Removal|Publications|General [Share]:
     description: General publications related to carbon dioxide removal and
