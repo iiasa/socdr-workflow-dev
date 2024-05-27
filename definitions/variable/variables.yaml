@@ -6,12 +6,24 @@
     description: Number of active grants related to carbon dioxide removal
       and negative-emissions technologies in general
     unit:
+- Research|Removal|Active Grants|General [Share]:
+    description: Active grants related to carbon dioxide removal and negative-emissions
+      technologies in general computed as share of all relevant grants
+    unit: "%"
 - Research|Removal|Active Grants|{Novel CDR Method}:
     description: Number of active grants related to {Novel CDR Method}
     unit:
+- Research|Removal|Active Grants|{Novel CDR Method} [Share]:
+    description: Active grants related to {Novel CDR Method} computed as share of all
+      relevant publications
+    unit: "%"
 - Research|Removal|Active Grants|{Conventional CDR Method}:
     description: Number of active grants related to {Conventional CDR Method}
     unit:
+- Research|Removal|Active Grants|{Conventional CDR Method} [Share]:
+    description: Active grants related to {Conventional CDR Method} computed as share
+      of all relevant publications
+    unit: "%"
 - Research|Removal|Funding:
     description: Amount of funding on active research grants related to carbon dioxide
       removal in general or to any specific removal method or net-negative emissions technology
