@@ -195,25 +195,38 @@
       using {Conventional CDR Method}
     unit: Mt CO2
 
-- Gross Emissions|CO2 [Reductions relative to 2020]:
-    description: Reductions of gross emissions of carbon dioxide (CO2) relative to 2020,
-      not accounting for negative emissions from bioenergy with CCS (BECCS) or
-      agriculture, forestry and other land use (AFOLU)
+- Emissions|CO2 [{Percentile}]:
+    description: Carbon dioxide (CO2) emissions given as the {Percentile} of a scenario
+      ensemble
     unit: Gt CO2/yr
-- Gross Emissions|CO2 [Reductions relative to 2020] [{Percentile}]:
-    description: Reductions of gross emissions of carbon dioxide (CO2) relative to 2020
-      not accounting for negative emissions from bioenergy with CCS (BECCS) or
-      agriculture, forestry and other land use (AFOLU), given as the
+    note: For statistical indicators, the scenario-name column in the IAMC format should
+      refer to the scenario ensemble or selection criteria of scenarios
+- Gross Emissions|Kyoto Gases [change from modelled 2020]:
+    description: Total emissions of Kyoto gases, including CO2, CH4, N2O and F-gases,
+      computed as difference from modelled values in 2020
+    unit: Gt CO2e/yr
+- Gross Emissions|Kyoto Gases [change from modelled 2020][{Percentile}]:
+    description: Total emissions of Kyoto gases, including CO2, CH4, N2O and F-gases,
+      computed as difference from modelled values in 2020 given as the {Percentile} of
+      a scenario ensemble
+    unit: Gt CO2e/yr
+
+- Carbon Removal:
+    description: Total carbon removal
+    unit: Gt CO2/yr
+- Carbon Removal [change from modelled 2020]:
+    description: Total carbon removal computed as difference from modelled values in 2020
+    unit: Gt CO2/yr
+
+- Carbon Removal [{Percentile}]:
+    description: Total carbon removal as reported by each model, given as the
       {Percentile} of a scenario ensemble
     unit: Gt CO2/yr
     note: For statistical indicators, the scenario-name column in the IAMC format should
       refer to the scenario ensemble or selection criteria of scenarios
-- Carbon Removal:
-    description: Total carbon removal
-    unit: Gt CO2/yr
-- Carbon Removal [{Percentile}]:
-    description: Total carbon removal as reported by each model, given as the
-      {Percentile} of a scenario ensemble
+- Carbon Removal [change from modelled 2020][{Percentile}]:
+    description: Total carbon removal as reported by each model computed as difference
+      from modelled values in 2020, given as the {Percentile} of a scenario ensemble
     unit: Gt CO2/yr
     note: For statistical indicators, the scenario-name column in the IAMC format should
       refer to the scenario ensemble or selection criteria of scenarios
@@ -223,6 +236,17 @@
 - Carbon Removal|Novel [{Percentile}]:
     description: Carbon removal using novel technologies as reported by each model,
       given as the {Percentile} of a scenario ensemble
+    unit: Gt CO2/yr
+    note: For statistical indicators, the scenario-name column in the IAMC format should
+      refer to the scenario ensemble or selection criteria of scenarios
+- Carbon Removal|Novel [change from modelled 2020]:
+    description: Carbon removal using novel technologies computed as difference from
+      modelled values in 2020
+    unit: Gt CO2/yr
+- Carbon Removal|Novel [change from modelled 2020][{Percentile}]:
+    description: Carbon removal using novel technologies as reported by each model
+      computed as difference from modelled values in 2020, given as the {Percentile} of
+      a scenario ensemble
     unit: Gt CO2/yr
     note: For statistical indicators, the scenario-name column in the IAMC format should
       refer to the scenario ensemble or selection criteria of scenarios
@@ -242,20 +266,33 @@
     unit: Gt CO2/yr
     note: For statistical indicators, the scenario-name column in the IAMC format should
       refer to the scenario ensemble or selection criteria of scenarios
-
-- AR6 Climate Diagnostics|Infilled|Emissions|CO2 [{Percentile}]:
-    description: Carbon dioxide (CO2) emissions after "infilling" during the AR6 climate
-      diagnostics, given as the {Percentile} of a scenario ensemble
+- Carbon Removal|Conventional [change from modelled 2020]:
+    description: Carbon removal using conventional methods (on land), excluding shifting
+      cultivation, computed as difference from modelled values in 2020
+    unit: Gt CO2/yr
+- Carbon Removal|Conventional [change from modelled 2020][{Percentile}]:
+    description: Carbon removal using conventional methods (on land), excluding shifting
+      cultivation, computed as difference from modelled values in 2020, given as the
+      {Percentile} of a scenario ensemble
     unit: Gt CO2/yr
     note: For statistical indicators, the scenario-name column in the IAMC format should
       refer to the scenario ensemble or selection criteria of scenarios
-- AR6 Reanalysis|OSCARv3.2|Carbon Removal|{Land Removal}:
-    description: Carbon removal on land {Land Removal} using the AR6 reanalysis of the
-      OSCAR v3.2 model
+
+- Carbon Flux [Land] [{Percentile}]:
+    description: Carbon flux on land as reported by each model, given as the {Percentile}
+      of a scenario ensemble
     unit: Gt CO2/yr
-- AR6 Reanalysis|OSCARv3.2|Carbon Removal|{Land Removal} [{Percentile}]:
-    description: Carbon removal on land {Land Removal} using the AR6 reanalysis of the
-      OSCAR v3.2 model, given as the {Percentile} of a scenario ensemble
+    note: For statistical indicators, the scenario-name column in the IAMC format should
+      refer to the scenario ensemble or selection criteria of scenarios
+- Carbon Flux [Land]|Carbon Removal [{Percentile}]:
+    description: Carbon removal on land as reported by each model, given as the {Percentile}
+      of a scenario ensemble
+    unit: Gt CO2/yr
+    note: For statistical indicators, the scenario-name column in the IAMC format should
+      refer to the scenario ensemble or selection criteria of scenarios
+- Carbon Flux [Land]|Indirect [{Percentile}]:
+    description: Indirect carbon flux on land as reported by each model, given as the
+      {Percentile} of a scenario ensemble
     unit: Gt CO2/yr
     note: For statistical indicators, the scenario-name column in the IAMC format should
       refer to the scenario ensemble or selection criteria of scenarios
