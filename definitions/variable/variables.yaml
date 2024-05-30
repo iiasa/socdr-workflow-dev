@@ -326,6 +326,19 @@
 - Newspapers|All Publications|Number of Articles|{Conventional CDR Method}:
     description: Number of newspaper articles about {Conventional CDR Method}
     unit:
+- Newspapers|{Newspaper}|Number of Articles:
+    description: Number of articles about carbon dioxide removal in the {Newspaper}
+    unit:
+- Newspapers|{Newspaper}|Number of Articles|General CDR:
+    description: Number of newspaper articles about carbon dioxide removal that are not
+      specific to a particular method in the {Newspaper}
+    unit:
+- Newspapers|{Newspaper}|Number of Articles|{Novel CDR Method}:
+    description: Number of newspaper articles about {Novel CDR Method} in the {Newspaper}
+    unit:
+- Newspapers|{Newspaper}|Number of Articles|{Conventional CDR Method}:
+    description: Number of newspaper articles about {Conventional CDR Method} in the {Newspaper}
+    unit:
 
 - Monitoring, Verification and Reporting|Protocols Developed:
     description: Potocols developed for monitoring, verification, and reporting (MVR)
