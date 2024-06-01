@@ -133,6 +133,13 @@
     description: Amount of investment in start-ups related to {Conventional CDR Method}
     unit: billion USD
 
+- Carbon Credits|Active Projects:
+    description: Number of active projects in the voluntary carbon removal market
+    unit:
+- Carbon Credits|Active Projects|{Project Category}:
+    description: Number of active projects in the voluntary carbon removal market
+      that use {Project Category}
+    unit:
 - Carbon Credits|Novel CDR|Tons Sold:
     description: Credits sold (purchased) in the voluntary carbon removal market
       using novel CDR methods, measured in terms of carbon removed
