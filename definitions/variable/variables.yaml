@@ -86,49 +86,50 @@
     description: Number of patents related to {Conventional CDR Method}
     unit:
 
-- Start-Up|Number of Firms:
+- Start-Up|All Net-Zero Initiatives|Number of Firms:
     description: Number of all net-zero initiatives start-up firms
     unit:
-- Start-Up|Number of Firms|Removal:
+- Start-Up|Removal|Number of Firms:
     description: Number of all CDR start-up firms
     unit:
-- Start-Up|Number of Firms|Removal|{Novel CDR Method}:
+- Start-Up|Removal|Number of Firms|{Novel CDR Method}:
     description: Number of net-zero initiatives start-up firms related to {Novel CDR Method}
     unit:
-- Start-Up|Number of Firms|Removal|{Conventional CDR Method}:
+- Start-Up|Removal|Number of Firms|{Conventional CDR Method}:
     description:  Number of net-zero initiatives start-up firms related to {Conventional CDR Method}
     unit:
-- Start-Up|Deals:
+
+- Start-Up|All Net-Zero Initiatives|Deals:
     description: Number of deals related to all net-zero initiatives start-ups
     unit:
-- Start-Up|Deals|Removal:
+- Start-Up|Removal|Deals:
     description: Number of deals related to carbon dioxide removal
     unit:
-- Start-Up|Deals|Removal|{Novel CDR Method}:
+- Start-Up|Removal|Deals|{Novel CDR Method}:
     description: Number of deals related to {Novel CDR Method}
     unit:
-- Start-Up|Deals|Removal|{Conventional CDR Method}:
+- Start-Up|Removal|Deals|{Conventional CDR Method}:
     description: Number of deals related to {Conventional CDR Method}
     unit:
-- Start-Up|Deals|Removal|{Novel CDR Method}|{Deal Type} [Share]:
+- Start-Up|Removal|Deals|{Novel CDR Method}|{Deal Type} [Share]:
     description: Share of {Deal Type} deals related to {Novel CDR Method}
       relative to total number of deals
     unit: "%"
-- Start-Up|Deals|Removal|{Conventional CDR Method}|{Deal Type} [Share]:
+- Start-Up|Removal|Deals|{Conventional CDR Method}|{Deal Type} [Share]:
     description: Share of {Deal Type} deals related to {Conventional CDR Method}
       relative to total number of deals
     unit: "%"
 
-- Start-Up|Funding:
+- Start-Up|All Net-Zero Initiatives|Funding:
     description: Amount of investment in all net-zero initiatives start-ups
     unit: billion USD
-- Start-Up|Funding|Removal:
+- Start-Up|Removal|Funding:
     description: Amount of investment in CDR start-ups
     unit: billion USD
-- Start-Up|Funding|Removal|{Novel CDR Method}:
+- Start-Up|Removal|Funding|{Novel CDR Method}:
     description: Amount of investment in start-ups related to {Novel CDR Method}
     unit: billion USD
-- Start-Up|Funding|Removal|{Conventional CDR Method}:
+- Start-Up|Removal|Funding|{Conventional CDR Method}:
     description: Amount of investment in start-ups related to {Conventional CDR Method}
     unit: billion USD
 
