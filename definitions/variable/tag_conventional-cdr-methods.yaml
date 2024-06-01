@@ -13,7 +13,10 @@
         note: This is a subcategory of "Forestry"
     - Peatland and Wetland Restoration:
         description: restoration of peat and coastal wetlands, including "Blue Carbon"
-    - Blue Carbon:
+    - Peatland Restoration:
+        description: restoration of peatlands
+        note: This is a subcategory of "Peatland and Wetland Restoration"
+    - Coastal Wetland Restoration:
         description: restoration of coastal wetlands, including "Blue Carbon"
         note: This is a subcategory of "Peatland and Wetland Restoration"
     - Soil Carbon Sequestration:

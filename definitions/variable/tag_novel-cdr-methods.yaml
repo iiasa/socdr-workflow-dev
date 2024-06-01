@@ -3,6 +3,9 @@
         description: use of biochar
     - Bio-Oil Storage:
         description: use of bio-oil
+    - Bioenergy with CCS and Direct Air Capture with CCS:
+        description: use of bioenergy and direct air capture in combination with
+          carbon-capture and sequestration (CCS)
     - Bioenergy with CCS:
         description: use of bioenergy in combination with carbon-capture and
           sequestration (CCS)
