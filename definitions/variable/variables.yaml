@@ -286,6 +286,16 @@
     note: For statistical indicators, the scenario-name column in the IAMC format should
       refer to the scenario ensemble or selection criteria of scenarios
 
+- Carbon Flux|Conventional CDR [{Land Model}]:
+    description: Carbon flux from conventional CDR as reported by the '{Land Model}'
+    unit: Gt CO2/yr
+- Carbon Flux|Conventional CDR [Model-Adjusted Inventories][{Percentile}]:
+    description: Carbon flux from conventional CDR using national greenhouse gas
+      inventories (NGHGI) adjusted by dynamic global vegetation models (DGVM)
+    unit: Gt CO2/yr
+    note: For statistical indicators, the scenario-name column in the IAMC format should
+      refer to the scenario ensemble or selection criteria of scenarios
+
 - Carbon Flux [Land] [{Percentile}]:
     description: Carbon flux on land as reported by each model, given as the {Percentile}
       of a scenario ensemble
